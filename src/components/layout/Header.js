@@ -5,7 +5,7 @@ function Header() {
     return(
         <header style = {headerStyle}>
             <h1>Todo List</h1>
-            <p>Trade mark of Awesome56</p>
+            <p>Trade mark of Awesome56 $Nitro Labs</p>
             <Link style={linkStyle} to="/">Home</Link> | <Link 
             style={linkStyle} to="/about">About</Link>
         </header>
